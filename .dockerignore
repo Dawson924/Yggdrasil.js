@@ -1,0 +1,26 @@
+# 依赖
+node_modules
+
+# 构建产物
+build
+dist
+
+# 开发文件
+.idea
+.vscode
+*.iml
+*.log
+
+# 环境配置
+.env
+.env.*
+!.env.production
+
+# Git 文件
+.git
+.gitignore
+.gitattributes
+
+# 文档
+readme.md
+LICENSE
